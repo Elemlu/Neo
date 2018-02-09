@@ -1,0 +1,36 @@
+body { 
+    background-color:blueviolet;
+    margin: 0;
+}
+
+nav { 
+    background-color:green;
+     padding: 15px;
+
+}
+
+nav ul { 
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+nav ul li a { 
+    color: brown;
+    font-size: 50px;
+    text-decoration: none;
+
+}
+h1 { 
+    background-color: blueviolet;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+header h1 {
+    background-color: none;
+    color: blue ;
+}
